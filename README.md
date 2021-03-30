@@ -5,7 +5,7 @@
 ##### Response로 보내지는 정보 (JSON 형식)
 - bpm : int. bpm 정보<br>
 - time : DateTime. output에서 bpm이 계산된 시간.<br>
-- (예정)resp : 분 당 호흡 수<br>
+- (예정)resp : int 분 당 호흡 수<br>
 
 
 
