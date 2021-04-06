@@ -7,6 +7,9 @@
 - time : DateTime. output에서 bpm이 계산된 시간.<br>
 - (예정)resp : int. 분 당 호흡 수<br>
 
+##### url 정보
+/bpm/bpm : 지금까지 저장된 bpm, time을 Response. 해당 페이지를 Request할 때마다 실시간 측정 프로그램의 결과를 가져옴.
+
 
 
 
