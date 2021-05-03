@@ -11,10 +11,10 @@
 ##### URL 정보
 /data/log : 지금까지 저장된 bpm, resp, time을 모두 Response. 해당 페이지를 Request할 때마다 실시간 측정 프로그램의 결과를 가져온 후 현재부터 과거 데이터 전부를 가져온다.<br>
 (데이터가 많아지는 경우 100개 이상일 때 자르는 식으로 개선할 수 있을 것 같다.)<br>
-/data/cur : 현재 output에서 도출된 bpm, resp, time을 보여준다. 실시간 측정 프로그램에서 결과를 가져와 저장한 후 그 결과 하나만 보여준다.<br>
+/data/cur : 현재 output에서 도출된 bpm, resp, time을 보여준다. 실시간 측정 프로그램에서 결과를 가져와 저장한 후 그 결과 하나만 보여준다.<br><br><br>
 
 
-###### /data/log 화면<br><br>
+##### /data/log 출력 화면<br><br>
 
 <img src="https://user-images.githubusercontent.com/44521546/116914622-e8b90700-ac85-11eb-8be8-600cad37de58.PNG"  width="358" height="276">
 
