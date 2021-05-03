@@ -14,5 +14,7 @@
 /data/cur : 현재 output에서 도출된 bpm, resp, time을 보여준다. 실시간 측정 프로그램에서 결과를 가져와 저장한 후 그 결과 하나만 보여준다.<br>
 
 
+/data/log 화면
+![PrintLogResult](https://user-images.githubusercontent.com/44521546/116914622-e8b90700-ac85-11eb-8be8-600cad37de58.PNG)
 
 
